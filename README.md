@@ -27,6 +27,8 @@ A simple Tic Tac Toe game built using Python and Pygame.
 - If all 9 squares are filled and no player has three in a row, the game ends in a draw.
 
 ## Screenshots
+<img width="400" alt="tic_tac_toe_screenshot" src="https://github.com/user-attachments/assets/ba49b2c2-3352-4691-a1d2-238dddaceb59" />
+
 
 
 ## Future Enhancements
